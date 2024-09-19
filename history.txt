@@ -1,0 +1,10 @@
+z:
+cd Z:\ОССТ_2024-2025\1-МД-4\Рубанова Таисия
+ copy con lab_1.txt
+Рубанова
+Чернышева
+Шуйская
+Малыгина
+sort lab_1.txt > lab_1_sort.txt
+
+doskey /history >  history.txt
